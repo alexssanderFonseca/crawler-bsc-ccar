@@ -1,0 +1,10 @@
+1641314891431	geckodriver	INFO	Listening on 127.0.0.1:55015
+1641314894422	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55016" "-no-remote" "-profile" "C:\\Users\\alex\\AppData\\Local\\Temp\\rust_mozprofile6YnhTv"
+*** You are running in headless mode.
+1641314894759	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alex\\AppData\\Local\\Temp\\rust_mozprofile6YnhTv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55016/devtools/browser/4a2063d6-7050-4111-9c9f-df2bf593bb85
+1641314895615	Marionette	INFO	Listening on port 55021
+1641314895962	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641315163328	Marionette	INFO	Stopped listening on port 55021
